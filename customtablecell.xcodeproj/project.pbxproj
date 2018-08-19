@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9F47D3D9212815C000538770 /* CellVC1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F47D3D8212815C000538770 /* CellVC1.swift */; };
+		9F80616521293EC80031ACA5 /* CellVC2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F80616421293EC80031ACA5 /* CellVC2.swift */; };
 		9FBFDFE22127E2C6002D4596 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FBFDFE12127E2C6002D4596 /* AppDelegate.swift */; };
 		9FBFDFE42127E2C6002D4596 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FBFDFE32127E2C6002D4596 /* ViewController.swift */; };
 		9FBFDFE72127E2C6002D4596 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FBFDFE52127E2C6002D4596 /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9F47D3D8212815C000538770 /* CellVC1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellVC1.swift; sourceTree = "<group>"; };
+		9F80616421293EC80031ACA5 /* CellVC2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellVC2.swift; sourceTree = "<group>"; };
 		9FBFDFDE2127E2C6002D4596 /* customtablecell.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = customtablecell.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FBFDFE12127E2C6002D4596 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9FBFDFE32127E2C6002D4596 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +64,8 @@
 				9FBFDFE82127E2C8002D4596 /* Assets.xcassets */,
 				9FBFDFEA2127E2C8002D4596 /* LaunchScreen.storyboard */,
 				9FBFDFED2127E2C8002D4596 /* Info.plist */,
+				9F47D3D8212815C000538770 /* CellVC1.swift */,
+				9F80616421293EC80031ACA5 /* CellVC2.swift */,
 			);
 			path = customtablecell;
 			sourceTree = "<group>";
@@ -136,7 +142,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				9FBFDFE42127E2C6002D4596 /* ViewController.swift in Sources */,
+				9F47D3D9212815C000538770 /* CellVC1.swift in Sources */,
 				9FBFDFE22127E2C6002D4596 /* AppDelegate.swift in Sources */,
+				9F80616521293EC80031ACA5 /* CellVC2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
